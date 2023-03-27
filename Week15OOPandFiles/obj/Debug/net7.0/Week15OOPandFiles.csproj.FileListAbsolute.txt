@@ -1,0 +1,15 @@
+/Users/laurpress/Projects/Week15OOPandFiles/Week15OOPandFiles/bin/Debug/net7.0/Week15OOPandFiles
+/Users/laurpress/Projects/Week15OOPandFiles/Week15OOPandFiles/bin/Debug/net7.0/Week15OOPandFiles.deps.json
+/Users/laurpress/Projects/Week15OOPandFiles/Week15OOPandFiles/bin/Debug/net7.0/Week15OOPandFiles.runtimeconfig.json
+/Users/laurpress/Projects/Week15OOPandFiles/Week15OOPandFiles/bin/Debug/net7.0/Week15OOPandFiles.dll
+/Users/laurpress/Projects/Week15OOPandFiles/Week15OOPandFiles/bin/Debug/net7.0/Week15OOPandFiles.pdb
+/Users/laurpress/Projects/Week15OOPandFiles/Week15OOPandFiles/obj/Debug/net7.0/Week15OOPandFiles.csproj.AssemblyReference.cache
+/Users/laurpress/Projects/Week15OOPandFiles/Week15OOPandFiles/obj/Debug/net7.0/Week15OOPandFiles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laurpress/Projects/Week15OOPandFiles/Week15OOPandFiles/obj/Debug/net7.0/Week15OOPandFiles.AssemblyInfoInputs.cache
+/Users/laurpress/Projects/Week15OOPandFiles/Week15OOPandFiles/obj/Debug/net7.0/Week15OOPandFiles.AssemblyInfo.cs
+/Users/laurpress/Projects/Week15OOPandFiles/Week15OOPandFiles/obj/Debug/net7.0/Week15OOPandFiles.csproj.CoreCompileInputs.cache
+/Users/laurpress/Projects/Week15OOPandFiles/Week15OOPandFiles/obj/Debug/net7.0/Week15OOPandFiles.dll
+/Users/laurpress/Projects/Week15OOPandFiles/Week15OOPandFiles/obj/Debug/net7.0/refint/Week15OOPandFiles.dll
+/Users/laurpress/Projects/Week15OOPandFiles/Week15OOPandFiles/obj/Debug/net7.0/Week15OOPandFiles.pdb
+/Users/laurpress/Projects/Week15OOPandFiles/Week15OOPandFiles/obj/Debug/net7.0/Week15OOPandFiles.genruntimeconfig.cache
+/Users/laurpress/Projects/Week15OOPandFiles/Week15OOPandFiles/obj/Debug/net7.0/ref/Week15OOPandFiles.dll
